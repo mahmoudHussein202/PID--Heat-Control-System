@@ -64,7 +64,5 @@ double global_u8setPoint = 40.00;
 bool global_boolCheckCompute = 0 ; 
 /**************************************/
 ```
-# Youtube Video  
-https://youtu.be/-581kQJC1bE
 # Contributing  
 Bug reports, feature requests, and so on are always welcome. Feel free to leave a note in the Issues section.
